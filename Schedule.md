@@ -27,3 +27,4 @@
 		<li> Join our class on <a href ="https://www.openprocessing.org/class/56532">openProcessing </a> and enter code BC5E </li>
 	<td>
 </tr>
+</table>
