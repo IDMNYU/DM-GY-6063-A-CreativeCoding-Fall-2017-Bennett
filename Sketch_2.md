@@ -1,6 +1,6 @@
-###Sketch 2
+### Sketch 2
 
-###Interactive Repetition & Drawing: Modularity, Pattern
+### Interactive Repetition & Drawing: Modularity, Pattern
 
  This is a 2-part Sketch
 
