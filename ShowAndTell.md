@@ -29,42 +29,43 @@ Get familiar with your display preferences in advance!! I'm not kidding either. 
 
 #### Show and Tell People
 
-Week  - Joshua Davis, Golan Levin (drawing systems + collaborations) ---> 
 
-Week  -  Casey Reas, Zachary Lieberman ---> 
 
-Week  - United Visual Artists, Hellicar & Lewis ---> 
+Week  2 -  Casey Reas, Zachary Lieberman, Golan Levin (drawing systems + collaborations) ---> 
 
-Week  - Seb Lee-Delisle & Kyle McDonald ---> 
 
-Week  - Julian Oliver, Moritz Stefaner, Martin Wattenberg ---> 
+Week  3 - United Visual Artists, Hellicar & Lewis, Seb Lee-Delisle ---> 
 
-Week -  Jer Thorpe, Soso Limited ---> 
 
-Week  - Congaz, N-e-r-v-o-u-s-S-y-s-t-e-m ---> 
+Week  4 - Kyle McDonald, Julian Oliver, Memo Akten ---> 
 
-Week  - Marius Watz & Memo Akten ---> 
 
-Week  - Field - http://www.field.io/, Josh Nimoy ---> 
+Week  5 - Jer Thorpe, Moritz Stefaner, Martin Wattenberg ---> 
 
-Week  - Jurg Lehni, Red Paper Heart   ---> 
 
-Week  - Amit Pitaru, rAndom International  ---> 
+Week  6 -  N-e-r-v-o-u-s-S-y-s-t-e-m, Soso Limited, Field - http://www.field.io/ ---> 
 
-Week  - Eno Henze, Dedric Kiefer --->
 
-Week  - Diato Manabe, Leo Villareal ---> 
+Week  7 - Marius Watz, Josh Nimoy  ---> 
 
-Week - Karolina Sobecka, Future Cities Lab ---> 
 
-Week - Robert Hodgin - Flight404, Karsten Schmidt ---> 
+Week  9 - Jurg Lehni, Red Paper Heart, rAndom International   ---> 
 
-Week  - Ryan Habbyshaw,Lauren McCarthy  ---> 
 
-Week  - Lia, Santiago Ortiz (Moebio.com) ---> 
+Week  10 - Amit Pitaru, Eno Henze, Cedric Kiefer  ---> 
 
-Week  - Michael Hansmeyer, Waltz Binarie ---> 
 
-Week  - Paul Prudence, Moment Factory ---> 
+Week  11 - Diato Manabe, Leo Villareal, Karolina Sobecka ---> 
 
-Extra Credit Possibilities:  Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road ...
+
+Week  12 -  Future Cities Lab, Robert Hodgin - Flight404, Karsten Schmidt ---> 
+
+
+Week  13 -  Lauren McCarthy, Lia, Santiago Ortiz (Moebio.com)---> 
+
+
+Week  14 - Ryan Habbyshaw, Michael Hansmeyer, Waltz Binarie ---> 
+
+
+
+Extra Credit Possibilities:  Paul Prudence, Moment Factory, Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road ...

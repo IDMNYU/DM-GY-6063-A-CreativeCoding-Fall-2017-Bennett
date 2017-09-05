@@ -1,4 +1,4 @@
-##Project 1 - Procedural Intensity/Change
+## Project 1 - Procedural Intensity/Change
 
 **Due November 6th --> In class critiques**
 

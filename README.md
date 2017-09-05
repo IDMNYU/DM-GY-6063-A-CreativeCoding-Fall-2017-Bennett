@@ -44,7 +44,7 @@ Students in this course will:
 ## Course Prerequisites
 This class assumes a high degree of computer literacy, but not a high degree of programming ability. We will be learning computer programing in a platform-generic way, however all examples will be demonstrated in Java or Javascript using the library p5.js (p5js.org) or Processing.  Having previous coding experience in Javascript, Java, C++, or Python is a plus, but not necessarily a must.
 
-Some students will have experience in programming. Some will not. With the consulation of the student and their experience, the weight of the first two learning objects will be determined. For example, if you have considerable experience writing code (2+ semesters, 1 year of professional work), you will be in the PURPLE group, which will pushed to achieve objective #2 with a greater weight than objective #1. If you have a bit of experience programming, but not a lot, you will be pushed to achieve objective 1 and 2 equally, etc (the GREEN group). After the third week of this course, this will be determined between the student and the professor on indiviual basis.
+Some students will have experience in programming. Some will not. With the consulation of the student and their experience, the weight of the first two learning objects will be determined. For example, if you have considerable experience writing code (for example: 2+ semesters, 1 year of professional work), you will be in the PURPLE group, which will pushed to achieve objective #2 with a greater weight than objective #1. If you have a bit of experience programming, but not a lot, you will be pushed to achieve objective 1 with a bit more weight for the first few weeks than objective 2, then objective 1 and 2 equally, etc (the GREEN group). After the third week of this course, this will be determined between the student and the professor on indiviual basis.
 
 
 
@@ -59,14 +59,14 @@ When I consider your grade, I am looking at the work submitted and how it advanc
 
 As a result, 2 students cannot compare their grades. Each student is at a different point in their development. Each student is looked at individually, with relation to their progress, leaps in development, creativity, exploration, research and risk-taking. If you are unhappy with your grade, you need to be making more effort towards your progress. A "C" grade means average, making average progress. "B" is above average progress and work. "A" means superior work.
 
-Students will evaluate their own progressed in a course in two ways: 1) A course evaluation form, which will be developed based on the course’s individual objectives. 2) Students will participate in a self reflection assignment due Week 7  & Week 15   or as otherwise noted. This written evaluation is worth 15 points and to be turned into me as a separate document.
+Students will evaluate their own progressed in a course in three ways: 1) A course evaluation form, which will be developed based on the course’s individual objectives. 2) Students will participate in a self reflection assignment due Week 7  & Week 15   or as otherwise noted. This written evaluation is worth 15 points and to be turned into me as a separate document. 3.) Turning in Tickets to Leave when requested, which will be almost daily.
 
 • Critically analyze/evaluate how much time was spent learning syntax & structure, programming concepts vs. actually programming, and how does this reflect on the final quality of your end result. 
 
 • Comment on your successes and frustrations with Processing and P5.js.
 
 Week 15 only:  <br>
-• Compare and contrast the Object Orientated Programming style versus Procedural Programming style not simply in definition, but rather your own understanding of each as well as your usage/fluidity with each.
+• Compare and contrast the Object Orientated Programming style versus Procedural Programming style not simply in definition, but rather, YOUR understanding of each as well as your usage/fluidity WITH EACH.
 
 ## Course Requirements
 • Email contact about logistics (when, where, how many, etc) ONLY. If your email is longer than 3 sentences you need to...
@@ -75,17 +75,21 @@ Week 15 only:  <br>
 
 • Consult the github account for the class at twice a week for up to date information and demo code
 
+• Consult OpenProcessing and Slack for feedback regarding your sketches from me and from other class mates.
+
 • Come to class on time and be familiar with the current class topics, and be ready to answer or ask questions and participate in discussions
 
 • Submit the weekly Tickets to Leave
 
 • Be professional at all times in your communication and attitude
 
+• Give your classmates constructive feedback. Don't be passive in critiques or take it personally. Push everyone's ideas further.
+
 • Complete all assignments by due date
 
 • Acquire and keep up with all of the readings and assigned videos. Read all assigned readings before class. Watch all the videos.
 
-• Devote at a minimum 8 to 12 hours a week OUTSIDE of class, fulfilling homework assignments, readings and studying concepts covered in class, in order to do average.
+• Devote at a minimum 8 to 12 hours a week OUTSIDE of class, fulfilling homework assignments, readings, wathcing videos and studying concepts covered in class, in order to do average.
 
 • Have Desire amounting to Enthusiasm (to Learn and to Explore)
 
@@ -187,7 +191,7 @@ My personal favorite time management tools are [KanBan](https://leankit.com/lear
 
 • **Using code found elsewhere:** It's super easy to find code online. As tempting as this is, I am going to ask that you write your own code for the first 2/3 of the semester. This will help you grasp and retain the fundamentals. It does help to write the code from the book out, line by line. Code that is not written by you can not be submitted as a homework assignment, project or pair programming challenge as your own work. Period.
 
-If you use code from elsewhere (which you will at times), I expect you to site the work and author, as well as to comment each line, as to what each line does programmatically. Do *not* summarize several lines of code from a high level (ie, TV Guide). I expect you to comment each line on a granular level. In addition in these cases, I am also looking for significant modification of the code, for you to enact your own ideas and to experiment heavily. Significant modification means beyond variable name and value changes. It's bending these concepts to your idea, especially graphically. It's not a copy and paste job.
+If you use code from elsewhere (which you will at times), I expect you to site the work and author, as well as to comment each line, as to what each line does programmatically. Do *not* summarize several lines of code from a high level (ie, TV Guide or horoscope-style). I expect you to comment each line on a granular level. In addition in these cases, I am also looking for significant modification of the code, for you to enact your own ideas and to experiment heavily. Significant modification means beyond variable name and value changes. It's bending these concepts to your idea, especially graphically. It's not a copy and paste job.
 
 Also, never more than 40% of your code may be supplied from elsewhere. Period.
 
@@ -195,24 +199,26 @@ If you use code from online, whether for inspiration, modification or reference,
 
 ### How to Submit Assignments via GitHub
 
+To do this, you will be utilizing 3 apps: a browser, github desktop and a file browser (Windows Explorer, Finder, Terminal, etc) to complete this entire process.
 
-Do the follow these steps for each assignment:
+
+Do the follow these steps to setup each assignment on Github:
 
 	* 0. Save your work AND all of the necessary support files (index.html, libraries folder, pictures, media, etc) in a folder that is titled in this manner on your computer:
-					*YourFirstNameYourLastName_P1*, etc.
-	* 1. Go to your Github Repository page in a browser and create a new repo for the assignment, naming it Creative_Coding_Project_1
+					*YourFirstNameYourLastName_SK1*, etc.
+	* 1. Go to your Github Repository page in a browser and create a new repo for the assignment, naming it Creative_Coding_Sketch_1
 
-	* 2. Clone that repo to your desktop (it should launch the Github desktop app). Save that file in a folder on your computer for this class.
+	* 2. Clone that repo to your desktop (it should launch the Github desktop app). Save that folder within a folder on your computer for this class.
 
 	* 3. Using a file browser (Windows Explorer, Finder, etc), take the folder created in step 0 and drop it INSIDE the folder you just created by cloning in step 2.
 
-	* 4. Go back to the GitHub Desktop editor. In the summary field, write what additions you have made to your code in summary. In the description, add greater details, notes, and questions for me.
+	* 4. Go back to the GitHub Desktop app. In the summary field, write what additions you have made to your code in summary. In the description, add greater details, notes, and questions for me.
 
 	* 5. Hit the "sync button" in the upper right hand corner. This uploads your code to your repo page on the Github website.
 
 	* 6. Refresh your browser page of your repo. You should now see your code and files up on your repo
 
-	* 7. As you continue to work on this project, save the code on your desktop, in the folder created in step 2. After saving each work session's progress, re-visit the Github desktop app to push the changes to your Github repo online. Make sure to fill out the summary and description notes. Do NOT and I repeat, DO NOT, make a new folder within this folder with the weeks editions. IE, you should not have "Week 1 work", "week 2 work", etc. Github tracks your changes and keeps them in history. It's version control! Yay!
+	* 7. As you continue to work on this project, save the code on your desktop, in the folder created in step 0, and have sinced moved to be within the folder created at step 2. After saving each work session's progress, re-visit the Github desktop app to push the changes to your Github repo online. Make sure to fill out the summary and description notes. Do NOT and I repeat, DO NOT, make a new folder within this folder with the weeks editions. IE, you should not have "Week 1 work", "week 2 work", etc. Github tracks your changes and keeps them in history. It's version control! Yay!
 
 ## [Show and Tell](ShowAndTell.md)
 
@@ -268,7 +274,7 @@ If you are fiddling around too much (and it's obvious you haven't tried this out
 For each project your grade will be assessed upon the following: *Principles, Creativity/Thoughtfulness, Craft*. Below gives you a sense of the spectrum, giving examples for high, middle and low grades.
 
 Please note: 
-A letter grade of "C" is an average grade. Average is not bad. It means average. Most of us are average, in some way. An average level of work is being done. It does not mean perfection. It means that the work still has room to develop at it's current state. It also means that the work has noticible achievements and evidence of some acquisition of knowledge. I look at this on an individual basis as well as across the whole class. 
+A letter grade of "C" is an average grade. Average is not bad. It means average. Most of us are average, in some way. An average level of work is being done. It does not mean perfection. It means that the work still has room to develop at it's current state. It also means that the work has noticible achievements and evidence of some acquisition of knowledge. I look at the work on an individual basis as well as across the whole class, as to how one is developing. 
 
 Please read examples of each assessment point below to get an idea of my expectations. Note that a "B" is between Satisificatory and Superior.
 
@@ -398,7 +404,7 @@ The NYU Tandon School of Engineering Grading Policy can be found in the current 
 
 ## Technology in the Classroom
 
-Be respectful of class time and activity. Our time together is limited. The experience is better for everyone in the class, if everyone can be present and active. It not only helps you, but it helps your neighrbor. Again, we live in a community and we must think beyond our own needs.
+Be respectful of class time and activity. Our time together is limited. The experience is better for everyone in the class, if everyone can be present and active. It not only helps you, but it helps your neighbor. Again, we live in a community and we must think beyond our own needs.
 
 [Read Clay Shirky's thoughts on students & laptops in the classroom.](https://medium.com/@cshirky/why-i-just-asked-my-students-to-put-their-laptops-away-7f5f7c50f368#.ong79i9mw)
 
@@ -406,7 +412,7 @@ Be respectful of class time and activity. Our time together is limited. The expe
 
 Violations of academic integrity are considered to be acts of academic dishonesty and include (but are not limited to) cheating, plagiarizing, fabrication, denying other access to information or material, and facilitating academic dishonesty, and are subject to the policies and procedures noted in the Student Handbook and within the Course Catalog, including the Student Code of Conduct and the Student Judicial System.  Please note that lack of knowledge of citations procedures, for example, is an unacceptable explanation for plagiarism, as is having studied together to produce remarkable similar papers or creative works submitted separately by two students, or recycling work from a previous class.
 
-Please review [NYU's School of Engineering's academic dishonesty policy](https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/academic-integrity-for-students-at-nyu.html" target="_blank) in its entirety.  Procedures may include, but are not limited to: failing the assignment, failing the course, going in front of an academic judicial council and possible suspension from school.  Violations will not be tolerated.
+Please review [NYU's School of Engineering's academic dishonesty policy](https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/academic-integrity-for-students-at-nyu.html) in its entirety.  Procedures may include, but are not limited to: failing the assignment, failing the course, going in front of an academic judicial council and possible suspension from school.  Violations will not be tolerated.
 
 All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA or Chicago Manual style for citing and documenting source material.
 
@@ -423,11 +429,13 @@ Faculty can provide course accommodations/modifications only after receipt of an
 
 ## Other Support Services for students
 
-## [Calendar](Calendar.md)
+## [Schedule](Schedule.md)
 
 ## [Project 1](Project_1.md)
 
-## [Project 2](Project_2.md)
+## [Project 2 Green](Project_2_Green.md)
+
+## [Project 2 Purple](Project_2_Purple.md)
 
 ## [Final Project](Final_Project.md)
 

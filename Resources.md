@@ -110,7 +110,7 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • http://www.lynda.com/Processing-training-tutorials/1402-0.html
 
-###P5.js
+### P5.js
 
 • https://github.com/shiffman/LearningProcessing-p5.js
 
@@ -136,18 +136,18 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • [Transformations - rotation, scale, etc](http://genekogan.com/code/p5js-transformations/)
 
-###Text Editors
+### Text Editors
 
 • [Brackets](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets)
 
 • [Sublime](https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts)
 
-###Regular Expressions
+### Regular Expressions
 
 • [RegExr](http://regexr.com/)
 
 
-###Node.js 
+### Node.js 
 
 • [Intro to Node.js](https://www.youtube.com/watch?v=pU9Q6oiQNd0)
 
@@ -161,7 +161,7 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • [More installation options/methods](https://nodejs.org/en/download/package-manager/)
 
-####Command Line Prompt
+#### Command Line Prompt
 
 • [Unix Commands Mac](http://mally.stanford.edu/~sr/computing/basic-unix.html)
 
@@ -177,7 +177,7 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • [XP Commands](https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/ntcmds.mspx?mfr=true)
 
-####openFrameworks
+#### openFrameworks
 
 • https://sites.google.com/site/ofauckland/home
 
@@ -189,7 +189,7 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • http://www.memo.tv/simple-openframeworks-application-on-iphone-sample-1/
 
-####Git
+#### Git
 
 • http://gitref.org/
 
@@ -203,6 +203,6 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • http://www.lynda.com/GitHub-training-tutorials/1384-0.html
 
-####Xcode
+#### Xcode
 
 • http://www.lynda.com/Xcode-training-tutorials/451-0.html
