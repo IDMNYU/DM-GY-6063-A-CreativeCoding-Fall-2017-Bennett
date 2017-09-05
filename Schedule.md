@@ -8,7 +8,7 @@
 <tr>
 	<th width="8%">Wk</th> 
 	<th width="46%">Class</th> 
-	<th width="46%">Homework (Assigned on Date Listed and due the following week before class)</th> 
+	<th width="46%">Homework <br> <br>(Assigned on Date Listed and due the following week before class)</th> 
 </tr>
 
 <tr>
@@ -81,9 +81,8 @@
 		<li>Read: GD P.2.3.2-P.2.3.6; M.1.0-M.2.5 </li>
 		<li> Watch: <a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA"> Javascript Objects, Map and random- 2.3-2.5</a></li>
 		<li> Watch: <a href="https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2">Shiffman, Learning Processing 8 (including sub-videos)</a></li>
-
 		<li><a href = "Project_1.md"> Work on Project 1 </a> <br>
- 		Push your progress to your GitHub repo WEEKLY (minimum) and put in a report/issue in the comments
+ 		Push your progress to your GitHub repo WEEKLY (minimum) and put in a <br>report/issue in the comments
  		</li>
 	</td>
 </tr>
@@ -96,7 +95,7 @@
 		<li>Read: GD P.2.3.2-P.2.3.6; M.1.0-M.2.5 </li>
 		<li> Watch: <a href = "https://vimeo.com/channels/natureofcode/page:1"> Vectors 1.1-1.6 </a></li>
 		<li><a href = "Project_1.md"> Work on Project 1 </a> <br>
- 		Push your progress to your GitHub repo WEEKLY (minimum) and put in a report/issue in the comments
+ 		Push your progress to your GitHub repo WEEKLY (minimum) and put in a <br>report/issue in the comments
  		</li>
 	</td>
 </tr>
@@ -115,8 +114,8 @@
 
 <tr>
 	<td valign="top">8 <br><br><br> Nov 6 <br><br>
-	<strong> LAST DAY TO WIDTH DRAW FOR A "W" <br> <br> </td>
-	<td valign="top"> Project 1 In-Class critique </strong> <br> <br>Screening: The 5 Obstructions<br> <br></td>
+	<strong> LAST DAY TO WIDTH DRAW FOR A "W" <br> <br> </td> </strong>
+	<td valign="top"> <strong>Project 1 In-Class critique </strong> <br> <br>Screening: The 5 Obstructions<br> <br></td>
 	<td valign = "top">
 		<li>Do: TBA</li>
 		<li> Watch: <a href="https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2">Shiffman, Learning Processing 10 - 10.7, 11.1-11.2 (including sub-videos)</a></li>
@@ -128,10 +127,10 @@
 	<td valign="top">9 <br><br><br> Nov 13 <br> </td>
 	<td valign="top"> Images + Pixels + Video<br> <br><br> <br> Show & Tell <br> <br></td>
 	<td valign = "top">
-		<li>Green:<a href = "Project_2_Green.md">Project 2</a><br><br></li>
-		<li>Purple: <a href = "Project_2_Purple.md"> Project 2 </a><br><br></li>
-		<li>Read: Learning Processing - Ch. 15-16 </li><br><br>
-		<li>Read: GD P.1.2.2-P.1.2.3; P.4.0-P.4.3.3; </li><br>
+		<li>Green:<a href = "Project_2_Green.md">Project 2</a></li>
+		<li>Purple: <a href = "Project_2_Purple.md"> Project 2 </a></li>
+		<li>Read: Learning Processing - Ch. 15-16 </li>
+		<li>Read: GD P.1.2.2 - P.1.2.3; P.4.0 - P.4.3.3; </li><br>
 	</td>
 </tr>
 
@@ -139,20 +138,20 @@
 	<td valign="top">10 <br><br><br> Nov 20 <br> </td>
 	<td valign="top"> Text<br> <br><br> <br> Show & Tell <br> <br></td>
 	<td valign = "top">
-	<li>Green:<a href = "Project_2_Green.md">Project 2</a><br><br></li>
-	<li>Purple: <a href = "Project_2_Purple.md"> Project 2 </a><br><br></li>
+	<li>Green:<a href = "Project_2_Green.md">Project 2</a></li>
+	<li>Purple: <a href = "Project_2_Purple.md"> Project 2 </a></li>
 	<li><a href = "RoundTable.md">Prepare presentations for Roundtable </a></li>
 		<li>Read: Learning Processing - Ch. 17 </li>
-		<li>Read: GD P.3.0-3.2.3 </li>
+		<li>Read: GD P.3.0 - 3.2.3 </li>
 	</td><br><br>
 </tr>
 
 <tr>
 	<td valign="top">11 <br><br><br> Nov 27 <br> </td>
 	<td valign = "top"> Buffer<br> <br> <br> <br> Show & Tell <br> <br></td>
-	<td valign = "top"><li>Green:<a href = "Project_2_Green.md">Project 2</a><br><br></li>
-		<li>Purple: <a href = "Project_2_Purple.md"> Project 2 </a><br><br></li>
-		<li><a href = "RoundTable.md">Prepare presentations for Roundtable </a><br> <br></li>
+	<td valign = "top"><li>Green:<a href = "Project_2_Green.md">Project 2</a></li>
+		<li>Purple: <a href = "Project_2_Purple.md"> Project 2 </a></li>
+		<li><a href = "RoundTable.md">Prepare presentations for Roundtable </a></li>
 		<li>Read: Learning Processing - Ch. 17 </li>
 		<li>Read: GD P.3.0-3.2.3 </li>
 	</td>
@@ -171,36 +170,32 @@
 	<td valign="top">13 <br><br><br> Dec 4 <br> </td>
 	<td valign="top"><a href = "Final_Project_scheduler_TaskManager.md"><strong>Strategy Due. </strong></a> <br>
 	 <br>Topics by request <br> <br> Show & Tell <br> <br></td> 
-	<td><li><a href = "Final_Project.md">Final Project </a></li>
-		<li> </li>
-		<li></li>
+	<td><li><a href = "Final_Project.md">Work on Final Project </a></li>
+		
 	</td>
 </tr>
 
 <tr>
 	<td valign="top">14 <br><br><br> Dec 11 <br> </td>
 	<td valign = "top"><br> Topics by request <br> <br> Show & Tell <br> <br></td>
-	<td> <li><a href = "Final_Project.md">Final Project </a></li>
-		<li></li>
-		<li> </li>
+	<td> <li><a href = "Final_Project.md">Work on Final Project </a></li>
+		
 	</td>
 </tr>
 
 <tr>
 	<td valign="top">15 <br><br><br> Dec 12 <br> </td>
 	<td valign = "top"> <br>Topics by request  <br> <br> Show & Tell <br> <br> </td>
-	<td> <li><a href = "Final_Project.md">Final Project </a></li>
-		<li> </li>
-		<li> </li>
+	<td> <li><a href = "Final_Project.md">Work on Final Project </a></li>
+		
 	</td>
 </tr>
 
 <tr>
 	<td valign="top">16 <br><br><br> Dec 18 <br> </td>
-	<td valign = "top"><td valign="top"> <strong> Final Critique<br> <br> </td>
-	<td><li><a href = "Final_Deliverables.md">Final Deliverables Due by Noon on Tuesday Dec 19 </a></strong></li><li></li>
-		<li> </li>
-		<li></li>
+	<td valign = "top"> <strong> Final Critique<br> <br> </td>
+	<td><li><a href = "Final_Deliverables.md">Final Deliverables Due by Noon on Tuesday Dec 19 </a></strong></li>
+		
 	</td>
 </tr>
 

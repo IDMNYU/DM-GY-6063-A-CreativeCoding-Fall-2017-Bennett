@@ -427,8 +427,6 @@ Students who believe they are eligible for course accommodations under the ADA o
 Faculty can provide course accommodations/modifications only after receipt of an approved accommodations letter from the Moses Center for Students with Disabilities. Accommodation letters can be provided to qualified students at any time during the semester, but grades earned before the faculty receives the letter cannot be changed.
 
 
-## Other Support Services for students
-
 ## [Schedule](Schedule.md)
 
 ## [Project 1](Project_1.md)
