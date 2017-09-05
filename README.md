@@ -44,7 +44,10 @@ Students in this course will:
 ## Course Prerequisites
 This class assumes a high degree of computer literacy, but not a high degree of programming ability. We will be learning computer programing in a platform-generic way, however all examples will be demonstrated in Java or Javascript using the library p5.js (p5js.org) or Processing.  Having previous coding experience in Javascript, Java, C++, or Python is a plus, but not necessarily a must.
 
-Some students will have experience in programming. Some will not. With the consulation of the student and their experience, the weight of the first two learning objects will be determined. For example, if you have experience writing code, you will be pushed to achieve objective #2 with a greater weight than objective #1. If you have a bit of experience programming, but not a lot, you will be pushed to achieve objective 1 and 2 equally, etc. After the third week of this course, this will be determined between the student and the professor on indiviual basis. 
+Some students will have experience in programming. Some will not. With the consulation of the student and their experience, the weight of the first two learning objects will be determined. For example, if you have considerable experience writing code (2+ semesters, 1 year of professional work), you will be in the PURPLE group, which will pushed to achieve objective #2 with a greater weight than objective #1. If you have a bit of experience programming, but not a lot, you will be pushed to achieve objective 1 and 2 equally, etc (the GREEN group). After the third week of this course, this will be determined between the student and the professor on indiviual basis.
+
+Note that when there are differences in assignments between the groups, that is noted in the syllabus calendar. Please also note that students may move from the Green Group to the Purple group at various points throughout the semester. Yet, students once in the Purple group, may not move back to the Green Group.
+
 
 ## Assessment
 Assessment will occur by reviewing weekly coding assignments & challenges, project milestones, and final projects. The course is cumulative.  Please see the Grading Section for specific grade breakdown, calendar for due dates, and assignments for briefs. 
@@ -180,7 +183,7 @@ A typical week will aim for the following schedule:
 
 • **Homework will be submitted in one of two places, depending on the assignment. Sketch Exercises and In-Class Challenges will be turned in via [OpenProcessing.org](https://www.openprocessing.org/class/56532).** Use code BC5E to join our class site there. Projects (multi-week assignments) will be turned in via GitHub. GitHub is a web hosting service that supports Git version control. It is more important than your resume, whether you are an artist or designer. It’s used largerly for software, but can be used for anything. It’s important to become familar with it, develop good habits (it’s like Time Machine, but better). See the assigned reading links for more information.
 
-• **Time** Time management is everything. You will need it to have reasonable accomplishments in this class. The material is cumulative. The readings are essential. Writing code is the only way to make progress and to fully synthesize the material. It becomes evident quite quickly. Develop excellent time management. You will need 8-12 hours outside of class to succeed. 
+• **Time** Time management is everything. You will need it to have reasonable accomplishments in this class. The material is cumulative. The readings and videos are essential. Writing code is the only way to make progress and to fully synthesize the material. It becomes evident quite quickly. Develop excellent time management. You will need 8-12 hours outside of class to succeed. 
 
 My personal favorite time management tools are [KanBan](https://leankit.com/learn/kanban/what-is-kanban/), [Ink and Volt Planner](https://inkandvolt.com/product/volt-planner/) (also available in undated), the [Pomodoro technique](http://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730), [Self Control](https://selfcontrolapp.com/)
 
@@ -233,8 +236,7 @@ You will be assigned a [Show and Tell presentation date here](ShowAndTell.md). P
 
 • Create a 5-7 minutes presentation (pdf, powerpoint, keynote, quicktime, etc.)
 
-• Decide whether or not you want to mirror your presentation or not (if you're using presentation tools - ie, notes)
-Get familiar with your display preferences in advance!! I'm not kidding either. Borrow a cable from the student aids outside 811 by the kitchen area, and try it out on your own BEFORE class. Seriously. It makes all the difference in the quality of your presentation and presentation nerves.
+• Decide whether or not you want to mirror your presentation or not (if you're using presentation tools - ie, notes). Get familiar with your display preferences in advance!! I'm not kidding either. Borrow a cable from the student aids outside 811 by the kitchen area, and try it out on your own BEFORE class. Seriously. It makes all the difference in the quality of your presentation and presentation nerves.
 
 • If you have sound during your presentation, set your external sound preferences in system preferences to Crestron. Test this out on the projector before your present. See above. 
 
@@ -255,9 +257,9 @@ If you are fiddling around too much (and it's obvious you haven't tried this out
 
 • Sketches            15%
 
-• Project 1: Adjective (critiqued)		15%
+• Project 1: Adjective 		15%
 
-• Project 2: TBA (on-line critique)		15%
+• Project 2: Green or Purple		15%
 
 • RoundTable Presentation     5%  
 
