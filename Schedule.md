@@ -8,7 +8,7 @@
 <tr>
 	<th width="8%">Wk</th> 
 	<th width="46%">Class</th> 
-	<th width="46%">Homework <br> <br>(Assigned on Date Listed and due the following week before class)</th> 
+	<th width="46%">Do For Homework <br> <br>(Assigned on Date Listed and due the following week before class)</th> 
 </tr>
 
 <tr>
@@ -75,7 +75,7 @@
 
 <tr>
 	<td valign="top">5 <br><br><br> Oct 16 <br> </td>
-	<td valign="top"> Algorithms<br> <br>debugging<br> <br> Pseudo code <br> <br> <br>In-class Exercise <br> <br> Show & Tell <br> <br></td>
+	<td valign="top"> Algorithms<br> <br>debugging<br> <br> Pseudo code <br> <br>In-class Exercise <br> <br> Show & Tell <br> <br></td>
 	<td valign = "top">
 		<li>Read: Learning Processing - Ch. 10-11 </li>
 		<li>Read: GD P.2.3.2-P.2.3.6; M.1.0-M.2.5 </li>
@@ -125,7 +125,7 @@
 
 <tr>
 	<td valign="top">9 <br><br><br> Nov 13 <br> </td>
-	<td valign="top"> Images + Pixels + Video<br> <br><br> <br> Show & Tell <br> <br></td>
+	<td valign="top"> Images + Pixels + Video<br> <br> Show & Tell <br> <br></td>
 	<td valign = "top">
 		<li>Green:<a href = "Project_2_Green.md">Project 2</a></li>
 		<li>Purple: <a href = "Project_2_Purple.md"> Project 2 </a></li>
@@ -136,7 +136,7 @@
 
 <tr>
 	<td valign="top">10 <br><br><br> Nov 20 <br> </td>
-	<td valign="top"> Text<br> <br><br> <br> Show & Tell <br> <br></td>
+	<td valign="top"> Text<br> <br>Show & Tell <br> <br></td>
 	<td valign = "top">
 	<li>Green:<a href = "Project_2_Green.md">Project 2</a></li>
 	<li>Purple: <a href = "Project_2_Purple.md"> Project 2 </a></li>
@@ -148,7 +148,7 @@
 
 <tr>
 	<td valign="top">11 <br><br><br> Nov 27 <br> </td>
-	<td valign = "top"> Buffer<br> <br> <br> <br> Show & Tell <br> <br></td>
+	<td valign = "top"> Buffer<br>  <br> Show & Tell <br> <br></td>
 	<td valign = "top"><li>Green:<a href = "Project_2_Green.md">Project 2</a></li>
 		<li>Purple: <a href = "Project_2_Purple.md"> Project 2 </a></li>
 		<li><a href = "RoundTable.md">Prepare presentations for Roundtable </a></li>
@@ -158,7 +158,7 @@
 </tr>
 
 <tr>
-	<td valign="top">12 <br><br><br> Nov 27 <br> </td>
+	<td valign="top">12 <br><br> Nov 27 <br> </td>
 	<td valign = "top"> <strong> Project 2 Critique (in-class)<br> <br> Round-Table Presentations <br> <br> </strong></td>
 	<td>
 		<li> <a href = "Final_Project.md">Begin working on your Final Project. </a></li>
@@ -179,7 +179,6 @@
 	<td valign="top">14 <br><br><br> Dec 11 <br> </td>
 	<td valign = "top"><br> Topics by request <br> <br> Show & Tell <br> <br></td>
 	<td> <li><a href = "Final_Project.md">Work on Final Project </a></li>
-		
 	</td>
 </tr>
 
@@ -187,7 +186,6 @@
 	<td valign="top">15 <br><br><br> Dec 12 <br> </td>
 	<td valign = "top"> <br>Topics by request  <br> <br> Show & Tell <br> <br> </td>
 	<td> <li><a href = "Final_Project.md">Work on Final Project </a></li>
-		
 	</td>
 </tr>
 
@@ -195,7 +193,6 @@
 	<td valign="top">16 <br><br><br> Dec 18 <br> </td>
 	<td valign = "top"> <strong> Final Critique<br> <br> </td>
 	<td><li><a href = "Final_Deliverables.md">Final Deliverables Due by Noon on Tuesday Dec 19 </a></strong></li>
-		
 	</td>
 </tr>
 
