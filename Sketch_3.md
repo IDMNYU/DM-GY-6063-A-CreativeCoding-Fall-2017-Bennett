@@ -1,6 +1,6 @@
-##Sketch 3
+## Sketch 3
 
-###P5.js transition + Functions with parameters
+### P5.js transition + Functions with parameters
 
 
 
