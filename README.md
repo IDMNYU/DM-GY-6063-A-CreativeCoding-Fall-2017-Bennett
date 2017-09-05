@@ -5,7 +5,7 @@ Course repo for Creative Coding Grad section A with Katherine Bennett
 * **Katherine Bennett, Visiting Assistant Professor**
 * **Email: Katherine.Bennett@nyu.edu** 
 * [Slack:](https://creativecodingfall18.slack.com) https://creativecodingfall18.slack.com
-* **Office Hours: Monday 2:00-3:00pm or Tues 2:00-3:00pm, OR by appointment** 
+* **Office Hours: Monday 2:00-3:00pm or Tues 4:00-5:00pm, OR by appointment** 
 * **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 881**
 * **GA:Kelly Chang Email: khc385@nyu.edu** Time: TBD MAGNET ROOM TBD**
 
@@ -34,29 +34,28 @@ Students will:
 ## Course Objectives
 Students in this course will:
 
-• Understand the basics of creative coding in Java & Javascript (Processing/p5.js). <br>
-• Write code within the context of visual art + design, to realize unique ideas and to enhance concepts, demonstrating new powers of expression and the incorporation of time. <br>
-• Apply their understanding of digital media to software. <br>
-• Learn best practices for designing software within an event-driven, object-oriented, real time framework. <br>
-• Experiment with different techniques for user input and output, including sensors and non-traditional screens. <br>
-• Propose and develop a complete software experience as a final project. <br>
+• Understand the basics of creative coding in Java & Javascript (Processing/p5.js). <br> <br>
+• Write code within the context of visual art + design, to realize unique ideas and to enhance concepts, demonstrating new powers of expression and the incorporation of time. <br><br>
+• Apply their understanding of digital media to software. <br><br>
+• Learn best practices for designing software within an event-driven, object-oriented, real time framework. <br><br>
+• Experiment with different techniques for user input and output, including sensors and non-traditional screens. <br><br>
+• Propose and develop a complete software experience as a final project. <br><br>
 
 ## Course Prerequisites
 This class assumes a high degree of computer literacy, but not a high degree of programming ability. We will be learning computer programing in a platform-generic way, however all examples will be demonstrated in Java or Javascript using the library p5.js (p5js.org) or Processing.  Having previous coding experience in Javascript, Java, C++, or Python is a plus, but not necessarily a must.
 
 Some students will have experience in programming. Some will not. With the consulation of the student and their experience, the weight of the first two learning objects will be determined. For example, if you have considerable experience writing code (2+ semesters, 1 year of professional work), you will be in the PURPLE group, which will pushed to achieve objective #2 with a greater weight than objective #1. If you have a bit of experience programming, but not a lot, you will be pushed to achieve objective 1 and 2 equally, etc (the GREEN group). After the third week of this course, this will be determined between the student and the professor on indiviual basis.
 
-Note that when there are differences in assignments between the groups, that is noted in the syllabus calendar. Please also note that students may move from the Green Group to the Purple group at various points throughout the semester. Yet, students once in the Purple group, may not move back to the Green Group.
 
 
 ## Assessment
-Assessment will occur by reviewing weekly coding assignments & challenges, project milestones, and final projects. The course is cumulative.  Please see the Grading Section for specific grade breakdown, calendar for due dates, and assignments for briefs. 
+Assessment will occur by reviewing weekly coding assignments & challenges, project milestones, and final projects. The course is cumulative.  Please see the Grading Section for specific grade breakdown, calendar for due dates, and assignments for briefs. Grades will be individually distributed via Slack Direct Message. Feedback occurs during class critique as well as on your OpenProcessing Sketches. Do review those comments as feedback for future projects and tips.
 
 The assignments are your opportunity to put your skills to the test. They're designed to test and deepen your knowledge while giving me valuable information about how you're progressing in the class. <a href = "https://www.youtube.com/watch?v=lRtV-ugIT0k">Finished is better than perfect. </a> An attempt at them is better than nothing at all. 
 
 
 This course is looking at how well you understand and utilize programming concepts to make visual materials. 
-Your grades given across the objectives, with your current objective path in mind, considering the place in time we are at within the semester. For example in the beginning of the semester, someone that is a proficient programming without any visual or creative experience will have more weight of their grade on how much they are pushing themselves to make creative and dynamic visual materials. While those that have no experience in programming, will have a weight distribution between both aspects, ex 70% programming fundamentals and usage of them, 30% creative exploration of visual materials. Later on in the semester, those weight distribution will shift to a 70% creativity exploration and dynamic materials, 30% on programming fundamentals.
+When I consider your grade, I am looking at the work submitted and how it advances you within your current path chosen, with our current point in the semester in mind. For example in the beginning of the semester, someone that is a proficient programming without any visual or creative experience will have more weight of their grade on how much they are pushing themselves to make creative and dynamic visual materials. While those that have no experience in programming, will have a weight distribution between both aspects, ex 50% programming fundamentals and usage of them, 50% creative exploration of visual materials. Later on in the semester, those weight distribution will shift to a 70% creativity exploration and dynamic materials, 30% on programming fundamentals and utilizing programming concepts.
 
 As a result, 2 students cannot compare their grades. Each student is at a different point in their development. Each student is looked at individually, with relation to their progress, leaps in development, creativity, exploration, research and risk-taking. If you are unhappy with your grade, you need to be making more effort towards your progress. A "C" grade means average, making average progress. "B" is above average progress and work. "A" means superior work.
 
@@ -128,7 +127,6 @@ Course material missed is your own responsibility to cover, make-up and address.
 
 For matters longer than 5 sentences, please email me to make an appointment during office hours. This is the proper way to address longer questions, issues, to ask me about an assignment, review a grade you received, or to discuss other matters. If you send me a long email, I am simply going to respond by asking you to meet with me to resolve the matter. I will not resolve matters over email.
 
-If I have asked you to schedule an appointment with me, I am not trying to avoid you. I am offering you my full attention and preparation. Due to my schedule and other campus responsibilities, I ask you to respond to emails and to be respectful of time.
 
 ## Required Materials
 
@@ -166,7 +164,7 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 The above software is free to download. 
 
 ## Course Structure
-This is a hybrid course - lecture/demo, workshop, presentations and studio. Students will be required to read material and watch videos outside of and before class before coming to class to discuss the material. Class time will be devoted to questions, demos, in-class peer challenges, critiques and presentations. In addition to the reading and videos, students will be required to complete weekly assignments and demonstrate evidence of work through code. Students will work on individual projects and group collaborations. Guest critics may be present.
+This is a hybrid course - lecture/demo, workshop, presentations and studio. Students will be required to read material and watch videos outside of (and before)  class. Class time will be devoted to questions, demos, in-class peer challenges, critiques and presentations. In addition to the reading and videos, students will be required to complete weekly assignments and demonstrate evidence of work through code. Students will work on individual projects and group collaborations. Guest critics may be present.
 
 The course can be broken down into 3 sections throughout the semester: programming basics, Object Orientated Programming (OOP), and advance topics (automation/behaviors, using addons - JSON, API’s, Arduino, Computer Vision, Sound, etc).
 
