@@ -171,7 +171,6 @@
 	<td valign="top"><a href = "Final_Project_scheduler_TaskManager.md"><strong>Strategy Due. </strong></a> <br>
 	 <br>Topics by request <br> <br> Show & Tell <br> <br></td> 
 	<td><li><a href = "Final_Project.md">Work on Final Project </a></li>
-		
 	</td>
 </tr>
 
@@ -190,7 +189,7 @@
 </tr>
 
 <tr>
-	<td valign="top">16 <br><br><br> Dec 18 <br> </td>
+	<td valign="top">16 <br><br> Dec 18 <br> </td>
 	<td valign = "top"> <strong> Final Critique<br> <br> </td>
 	<td><li><a href = "Final_Deliverables.md">Final Deliverables Due by Noon on Tuesday Dec 19 </a></strong></li>
 	</td>
