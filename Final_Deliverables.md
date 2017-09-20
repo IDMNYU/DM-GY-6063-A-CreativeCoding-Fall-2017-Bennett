@@ -7,18 +7,18 @@
 
 Using Word or another text editor, reflect on the following: 
 
-• ### Critically analyze/evaluate how much time was spent learning syntax & structure, programming concepts vs. actually programming, and how does this reflect on the final quality of your end result. 
+• Critically analyze/evaluate how much time was spent learning syntax & structure, programming concepts vs. actually programming, and how does this reflect on the final quality of your end result. 
 
-• ### Comment on your successes and frustrations with Processing and P5.js.
+• Comment on your successes and frustrations with Processing and P5.js.
 
-• ### Compare and contrast OOP versus Procedural Programming.
+• Compare and contrast OOP versus Procedural Programming.
 
 
-• ### Specifically considering your final project: What programming concepts solidified in your final project? What did you learn with reference to programming? Did you have a break through?
+• Specifically considering your final project: What programming concepts solidified in your final project? What did you learn with reference to programming? Did you have a break through?
 
-• ### Specifically considering your final project: Were you able to resolve your own bugs? What tricks did you learn in the process to help? Did you do any debugging? 
+• Specifically considering your final project: Were you able to resolve your own bugs? What tricks did you learn in the process to help? Did you do any debugging? 
 
-• ### How do you think you'll move forward with programming? will you keep doing it ? How does this relate to other classes you are either taking or wish to take? 
+• How do you think you'll move forward with programming? will you keep doing it ? How does this relate to other classes you are either taking or wish to take? 
 
 
 
