@@ -5,7 +5,7 @@ https://processing.org/handbook/
 
 void setup(){
   size(400, 400);
-  background(210, 164, 255); // easter purple
+  background(210, 164, 255); //  purple
   
 }
 

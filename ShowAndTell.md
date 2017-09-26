@@ -31,40 +31,52 @@ Get familiar with your display preferences in advance!! I'm not kidding either. 
 
 
 
-Week  2 -  Casey Reas, Zachary Lieberman, Golan Levin (drawing systems + collaborations) ---> 
+Week  2 -  
 
 
-Week  3 - United Visual Artists, Hellicar & Lewis, Seb Lee-Delisle ---> 
+Week  3 - 
 
 
-Week  4 - Kyle McDonald, Julian Oliver, Memo Akten ---> 
+Week  4 - Casey Reas, Zachary Lieberman, Golan Levin (drawing systems + collaborations) ---> Aubree
 
 
-Week  5 - Jer Thorpe, Moritz Stefaner, Martin Wattenberg ---> 
+
+Week  5 - United Visual Artists, Hellicar & Lewis, Seb Lee-Delisle ---> Jason
 
 
-Week  6 -  N-e-r-v-o-u-s-S-y-s-t-e-m, Soso Limited, Field - http://www.field.io/ ---> 
+Kyle McDonald, Julian Oliver ---> Karan
 
 
-Week  7 - Marius Watz, Josh Nimoy  ---> 
+Week  6 -  N-e-r-v-o-u-s-S-y-s-t-e-m, Soso Limited, Field - http://www.field.io/ ---> Payton
+
+Jer Thorpe, Moritz Stefaner, Martin Wattenberg --->  Srishti
 
 
-Week  9 - Jurg Lehni, Red Paper Heart, rAndom International   ---> 
+
+Week  7 - Marius Watz, Josh Nimoy  ---> Joanna Yen
+
+Diato Manabe, Memo Akten --> Asher
 
 
-Week  10 - Amit Pitaru, Eno Henze, Cedric Kiefer  ---> 
+Week  9 - Jurg Lehni, Red Paper Heart, rAndom International   ---> Cy
 
 
-Week  11 - Diato Manabe, Leo Villareal, Karolina Sobecka ---> 
+Week  10 - Amit Pitaru, Eno Henze  ---> Kevin
+
+Cedric Kiefer,Future Cities Lab ---> Pratik
 
 
-Week  12 -  Future Cities Lab, Robert Hodgin - Flight404, Karsten Schmidt ---> 
+
+Week  11 - Leo Villareal, Karolina Sobecka ---> Raksha
 
 
-Week  13 -  Lauren McCarthy, Lia, Santiago Ortiz (Moebio.com)---> 
+Week  12 -  Robert Hodgin - Flight404, Karsten Schmidt ---> Ryan
 
 
-Week  14 - Ryan Habbyshaw, Michael Hansmeyer, Waltz Binarie ---> 
+Week  13 -  Lauren McCarthy, Lia, Santiago Ortiz (Moebio.com)---> Joanna Molloy
+
+
+Week  14 - Ryan Habbyshaw, Michael Hansmeyer, Waltz Binarie ---> Simi
 
 
 
