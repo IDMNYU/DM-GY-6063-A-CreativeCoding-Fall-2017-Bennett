@@ -6,11 +6,17 @@
 Creative Coding hours (with Kelly) are:
 
 Monday 6:30 - 8:30 pm  room 817 
+
 Tuesday  10am - 12:00 pm room 824
+
 Wednesday 10am-12pm room 845
+
 Thursday 1:00 - 3:00 pm room 845 
+
 Thursday 4:45 - 6:45 pm room 811 
-Friday 2:30 - 4:30 pm room 811 (Oct 13th 845) 
+
+Friday 2:30 - 4:30 pm room 811 (Oct 13th 845)
+
 
 Her email is kelly.chang@nyu.edu. 
 
@@ -59,7 +65,7 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • Douglas Rushkoff’s Program or Be Programmed (emailed)
 
-• [Tipes on Debugging](https://vimeo.com/channels/debugging)
+• [Tips on Debugging](https://vimeo.com/channels/debugging)
 
 • [Finished is Better Than Perfect](https://www.youtube.com/watch?v=lRtV-ugIT0k">Finished is better than perfect)
 

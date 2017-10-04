@@ -355,13 +355,18 @@ Assignments that are not submitted will receive a "0". Please realize that a "0"
 The NYU Tandon School of Engineering Grading Policy can be found in the current Course Catalog.
 
 
-###Creative Coding hours (with Kelly) are:
+### Creative Coding hours (with Kelly) are:
 
 Monday 6:30 - 8:30 pm  room 817 
+
 Tuesday  10am - 12:00 pm room 824
+
 Wednesday 10am-12pm room 845
+
 Thursday 1:00 - 3:00 pm room 845 
+
 Thursday 4:45 - 6:45 pm room 811 
+
 Friday 2:30 - 4:30 pm room 811 (Oct 13th 845) 
 
 Her email is kelly.chang@nyu.edu
