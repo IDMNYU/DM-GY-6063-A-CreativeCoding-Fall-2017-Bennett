@@ -12,7 +12,7 @@ Use only the drawing functions - stuff found in the Shape, Color, Events and Mat
 
 Create custom functions that are triggered on some event, and make those functions vary. The focus of this project is procedural intensity. How expressive can you be with only line, shapes, color and movement?
 
-###Ingredients: <br>
+### Ingredients: <br>
 
 • Graphics (shape, color, line, placement, custom shapes) <br>
 • Control Structures (if, for, while) <br>
@@ -24,7 +24,7 @@ Create custom functions that are triggered on some event, and make those functio
 • Random (crafted)<br>
 • OOP <br>
 
-###Must haves: 
+### Must haves: 
 <br>
 	• heavy use of variables<br>
 	• custom functions passing variables as parameter <br>
