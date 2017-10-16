@@ -37,7 +37,9 @@ Create custom functions that are triggered on some event, and make those functio
 	• conditionals <br>
 	• custom OOP usage with methods and parameters <br>
 
-
+<br>
+<br>
+<br>
 	
 
 	
