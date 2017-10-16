@@ -37,6 +37,9 @@ Create custom functions that are triggered on some event, and make those functio
 	• conditionals <br>
 	• custom OOP usage with methods and parameters <br>
 
+
+	
+
 	
 
 Weekly pushes to your **GitHub Repo are required**
