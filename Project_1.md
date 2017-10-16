@@ -39,7 +39,4 @@ Create custom functions that are triggered on some event, and make those functio
 
 	
 
-
-Code must be 150 lines of custom code, a minimum. Spacing, comments or commented out code are not counted as lines.
-
 Weekly pushes to your **GitHub Repo are required**
