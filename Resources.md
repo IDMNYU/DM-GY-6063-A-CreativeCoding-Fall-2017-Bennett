@@ -42,9 +42,20 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • [Nature of Code](http://natureofcode.com/) NoC
 
-• [Slack](https://creativecoding-c-fa16.slack.com/) https://slack.com/
+• [Slack]
 
 ### Required Resources 
+
+• [The Coding Train P5.js](https://www.youtube.com/user/shiffman/playlists?shelf_id=14&view=50&sort=dd)
+
+• [The Coding Train - Learning Processing](https://www.youtube.com/user/shiffman/playlists?shelf_id=2&view=50&sort=dd)
+
+
+• [The Coding Train - Github](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+
+• [The Coding Train - Nature of Code](https://www.youtube.com/user/shiffman/playlists?shelf_id=6&view=50&sort=dd)
+
+
 • Github vs Linked in : http://www.ittybittyurl.com/32g6, http://www.ittybittyurl.com/32g7
 
 • http://lifedev.net/2008/07/programmer-creativity-boost/
