@@ -7,7 +7,7 @@ Creative Coding hours (with Kelly) are:
 
 Monday 6:30 - 8:30 pm  room 817 
 
-Tuesday  10am - 12:00 pm room 824
+~~Tuesday  10am - 12:00 pm room 824~~
 
 Wednesday 10am-12pm room 845
 
