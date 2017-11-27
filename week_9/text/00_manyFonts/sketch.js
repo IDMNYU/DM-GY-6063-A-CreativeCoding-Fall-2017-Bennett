@@ -17,6 +17,7 @@ function setup() {
   fill(0);
   stroke(0);
   textFont(theFont[0], fsize);
+  //frameRate(3);
 
 }
 
@@ -41,14 +42,15 @@ function draw() {
   text('ticks', thex, they);
   thex += textWidth('ticks ');
 
-  /*
+  ///*
   fill(insideColor, 0, 0);
   text('my cat has ticks', mouseX, mouseY);
   fsize++;
   textSize(fsize);
   if (fsize > 56) fsize = 9;
-   
+   console.log(frameCount);
   if(frameCount % 20 === 0){
+    console.log("ding ding ding ding");
     insideColor = 255 - insideColor;
     fontCount = (fontCount + 1) % theFont.length;
     println(fontCount);
@@ -56,5 +58,5 @@ function draw() {
     textFont(theFont[fontCount]);
   }
    
-  */
+  //*/
 }

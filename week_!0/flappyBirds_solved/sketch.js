@@ -15,7 +15,7 @@ to have the forces operation in 2 dimensions.
 */
 
 
-var bird;
+var eagle;
 
 var bars = [];
 
@@ -24,7 +24,7 @@ function setup(){
 	createCanvas(400, 600);
 
 	// make a new bird object:
-	bird = new Bird();
+	eagle = new Bird();
 
 	// push a new bar object onto the end of the block array
 	bars.push(new Bar());
@@ -44,7 +44,7 @@ function draw(){
 		bars[i].update();
 
 		// did we hit a bird?
-		if(bars[i].hits(bird)){
+		if(bars[i].hits(eagle)){
 			console.log("we hit a bird!");
 		}
 		// is this particular bar off screen?
@@ -57,8 +57,8 @@ function draw(){
 	}
 
 	//run the birds method:
-	bird.update();
-	bird.show();
+	eagle.update();
+	eagle.show();
 
 	// every so often:
 	if(frameCount % 100 == 0){
@@ -73,6 +73,6 @@ function keyTyped(){
 	if( key == ' '){
 		console.log("space");
 		//run the bird's method to go up to execute:
-		bird.up();
+		eagle.up();
 	}
 }

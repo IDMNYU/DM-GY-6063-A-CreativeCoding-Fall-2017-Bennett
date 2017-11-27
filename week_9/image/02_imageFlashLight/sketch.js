@@ -36,7 +36,7 @@ function draw() {
       pixels[pix   ] = r;
       pixels[pix  + 1] = g;
       pixels[pix  + 2] = b;
-      pixels[pix  + 3] = 255; // we always have to set our alpha
+      pixels[pix  + 3] = 0; // we always have to set our alpha
     }
   }
   // we've manipulated the pixels, now update them with the new info

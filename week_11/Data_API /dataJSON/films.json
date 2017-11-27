@@ -1,0 +1,32 @@
+
+{
+  "f":[
+    {
+      "title": "Alphaville",
+      "director": "Jean-Luc Godard",
+      "year": 1965,
+      "rating": 9.1
+    },
+    {
+      "title": "Pierrot le Fou",
+      "director": "Jean-Luc Godard",
+      "year": 1965,
+      "rating": 7.3
+    },
+    {
+      "title": "Six in Paris",
+      "director": "Jean-Luc Godard",
+      "year": 1965,
+      "rating": 6.9
+    },
+    {
+      "title": "Masculin Féminin",
+      "director": "Jean-Luc Godard",
+      "year": 1965,
+      "rating": 7.7
+    }
+
+  ]
+}
+
+

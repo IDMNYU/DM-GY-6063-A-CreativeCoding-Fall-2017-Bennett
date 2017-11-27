@@ -45,6 +45,8 @@ function draw() {
         result = 0;  // black
       }
   
+  /*
+
 
       // Calculate an amount to change brightness
       // based on proximity to the mouse
@@ -63,6 +65,8 @@ function draw() {
       r = constrain(r, 0, 255);
       g = constrain(g, 0, 255);
       b = constrain(b, 0, 255);
+
+      */
     
       // Set the display pixel to the image pixel
       destination. pixels[loc    ] = result;
