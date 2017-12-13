@@ -25,7 +25,7 @@ function draw() {
  ///*
   if (timer.isFinished()) {
     // In case you want to see the difference with stuttering
-    loadJSON('http://time.jsontest.com/', gotData);
+    //loadJSON('http://time.jsontest.com/', gotData);
     loading = true;
    console.log("Making request!");
     timer.start();
